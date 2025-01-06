@@ -44,7 +44,6 @@
                                         <li><a href="/training_learning_services">Training & Learning Services</a></li>
                                         <li><a href="http://www.tinnovatik.com/" target="_blank">Solar</a></li>
                                         <li><a href="/outsource_services">Outsource Services</a></li>
-                                        <li><a href="/uce_solar_philippines">UCE Solar Philippines</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#Product">Product</a>

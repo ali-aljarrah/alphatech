@@ -42,60 +42,71 @@
         <div class="bub-right" id="feat">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4 offset-lg-0 col-xs-12 mb-4">
+                    <div class="col-lg-6 offset-lg-0 col-xs-12 mb-4 mb-md-0 wow fadeInLeft" data-wow-delay="0.3s">
                         <!--Services Block Four-->
                         <div class="services-block-four transparent">
                             <div class="inner-box">
-                                <div class="icon-icon bg1">
-                                    <img src="img/icons/i1.png" alt="">
+                                <div class="icon-icon d-flex justify-content-center align-items-center bg1">
+                                    <i class="fa fa-laptop fa-3x white-color" aria-hidden="true"></i>
                                 </div>
-                                <h3><a class="normal" href="#">Register / Login to our Platform</a></h3>
+                                <h3>Remote Network Operations Center</h3>
                                 <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt dolor consectetur aliquam posuere tortor,.</p>
                             </div>
                         </div>
-                       
-                     
+
                         <!--Services Block Four-->
                         <div class="services-block-four transparent ">
                             <div class="inner-box">
-                                <div class="icon-icon bg4">
-                                    <img src="img/icons/i4.png" alt="">
+                                <div class="icon-icon d-flex justify-content-center align-items-center bg2">
+                                    <i class="fa fa-object-ungroup fa-2x white-color" aria-hidden="true"></i>
                                 </div>
-                                <h3><a class="normal" href="#">Start Earning From Affiliate System</a></h3>
-                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt.</p>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-4 offset-lg-0 col-xs-12 mb-4">
-                        <!--Services Block Four-->
-                        <div class="services-block-four transparent ">
-                            <div class="inner-box">
-                                <div class="icon-icon bg2">
-                                    <img src="img/icons/i2.png" alt="">
-                                </div>
-                                <h3><a class="normal" href="#">Enter your information details </a></h3>
+                                <h3>Admin and HR services</h3>
                                 <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt dolor consectetur aliquam posuere tortor,.</p>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="col-lg-4 offset-lg-0 col-xs-12 mb-4">
                         <!--Services Block Four-->
                         <div class="services-block-four transparent">
                             <div class="inner-box">
-                                <div class="icon-icon bg3">
-                                    <img src="img/icons/i3.png" alt="">
+                                <div class="icon-icon d-flex justify-content-center align-items-center bg3">
+                                    <i class="fa fa-life-ring fa-3x white-color" aria-hidden="true"></i>
                                 </div>
-                                <h3><a class="normal" href="#">Start Sharing your Referral Link</a></h3>
+                                <h3>Technical Support</h3>
                                 <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt dolor consectetur aliquam posuere tortor,.</p>
                                 
                             </div>
                         </div>
+
+                        <!--Services Block Four-->
+                        <div class="services-block-four transparent ">
+                            <div class="inner-box">
+                                <div class="icon-icon d-flex justify-content-center align-items-center bg4">
+                                    <i class="fa fa-cubes fa-2x white-color" aria-hidden="true"></i>
+                                </div>
+                                <h3>Project Management</h3>
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt.</p>
+                            </div>
+                        </div>
+
+                        <!--Services Block Five-->
+                        <div class="services-block-four transparent ">
+                            <div class="inner-box">
+                                <div class="icon-icon d-flex justify-content-center align-items-center bg1">
+                                    <i class="fa fa-cart-arrow-down fa-3x white-color" aria-hidden="true"></i>
+                                </div>
+                                <h3>Digital Marketing and Sales</h3>
+                                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicin elit. Laudantium modi assumenda beatae provide nt.</p>
+                            </div>
+                        </div>
                     </div>
 
-                    <div class="col-lg-4 offset-lg-0 col-xs-12 mb-4"></div>
+                    <div class="col-12 col-lg-6 mt-s wow fadeInRight" data-wow-delay="0.3s">
+                        <div class="service-img-wrapper mb-30">
+                            <div class="image-box">
+                                <img width="540" height="480" src="img/alphatec/img-5.webp" class="center-block img-fluid phone-img" alt="Alphatech - Outsource Services">
+                            </div>
+                        </div>
+                    </div>
               </div>
             </div>
         </div>
