@@ -5,7 +5,7 @@
                 <nav class="classy-navbar light justify-content-between" id="dreamNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand light" href="#"><img src="img/core-img/logo.png" alt="logo"> Robostam </a>
+                    <a class="nav-brand light" href="/"><img class="img-fluid" loading="lazy" src="img/core-img/logo.png" alt="Alphatech Logo" />Alphatech</a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler demo">
@@ -23,31 +23,57 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul id="nav">
-                                <li><a href="#home">Home</a>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="#About">About Us</a>
                                     <ul class="dropdown">
-                                        <li><a href="index-demo-1.html">Home style 1</a></li>
-                                        <li><a href="index-demo-2.html">Home style 2</a></li>
-                                        <li><a href="index-demo-3.html">Home style 3</a></li>
-                                        <li><a href="index-demo-4.html">Home style 4</a></li>
-                                        <li><a href="index-demo-5.html">Home style 5</a></li>
-                                        <li><a href="index-demo-6.html">Home style 6</a></li>
+                                        <li><a href="/who_we_are">Who we are?</a></li>
+                                        <li><a href="/milestone">Milestone</a></li>
+                                        <li><a href="/vision_mission">Vision & Mission</a></li>
+                                        <li><a href="/management_team">Management Team</a></li>
+                                        <li><a href="/milestones_achievements">Milestones & Achievements</a></li>
+                                        <li><a href="/awards">Awards</a></li>
+                                        <li><a href="/careers">Careers</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about-us.html">About Us</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="#blog">Blog</a>
+                                <li><a href="#Services">Services</a>
                                     <ul class="dropdown">
-                                        <li><a href="index-blog.html">Blog Posts</a></li>
-                                        <li><a href="index-blog-with-sidebar.html">Sidebar Blog </a></li>
-                                        <li><a href="index-single-blog.html">Blog Details</a></li>
+                                        <li><a href="/network_rollout_services">Network Rollout Services</a></li>
+                                        <li><a href="/network_managed_services">Network Managed Services</a></li>
+                                        <li><a href="/network_consultation_services">Network Consultation Services</a></li>
+                                        <li><a href="/fiber_engineering_services">Fiber Engineering Services</a></li>
+                                        <li><a href="/training_learning_services">Training & Learning Services</a></li>
+                                        <li><a href="/solar">Solar</a></li>
+                                        <li><a href="/outsource_services">Outsource Services</a></li>
+                                        <li><a href="/uce_solar_philippines">UCE Solar Philippines</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="#Product">Product</a>
+                                    <ul class="dropdown">
+                                        <li><a href="/UTrex">UTrex</a></li>
+                                        <li><a href="/antenna">Antenna</a></li>
+                                        <li><a href="/set_top_box">Set-top Box</a></li>
+                                        <li><a href="/mobile_base_station">Mobile Base Station</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#Solutions">Solutions</a>
+                                    <ul class="dropdown">
+                                        <li><a href="/telecom_newtorking_planning_design">Telecom Newtorking Planning & Design</a></li>
+                                        <li><a href="/telecom_network_optimization">Telecom Network Optimization</a></li>
+                                        <li><a href="/WLAN_solution">WLAN Solution</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#Engineering">Engineering</a>
+                                    <ul class="dropdown">
+                                        <li><a href="/telecom_installation_commissioning">Telecom Installation & Commissioning</a></li>
+                                        <li><a href="/IDC_engineering">IDC Engineering</a></li>
+                                        <li><a href="/IBC_engineering">IBC Engineering</a></li>
+                                    </ul>
+                                </li>
+                             
+                                
                                 <li><a href="contact-us.html">Contact</a></li>
                             </ul>
-
-                            <!-- Button -->
-                            <a href="#" class="btn login-btn ml-50">Log in</a>
+                            
                         </div>
                         <!-- Nav End -->
                     </div>

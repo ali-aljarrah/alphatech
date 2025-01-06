@@ -1,0 +1,46 @@
+body::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.breakpoint-off .classynav ul li .dropdown {
+  width: auto;
+  min-width: max-content;
+}
+
+.dark.classy-nav-container {
+    min-width: 90vw;
+}
+
+.breakpoint-on .classy-navbar .classy-menu  {
+    min-width: 90vw;
+    left: -375px;
+}
+
+.badge-link {
+  background-color: #d7dfef;
+  color: #000000;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: all .2s ease-in-out;
+}
+
+.badge-link:hover {
+  background-color: #192057;
+  color: #FFFFFF;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}

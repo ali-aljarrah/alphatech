@@ -8,7 +8,7 @@
                             <!-- Copywrite -->
                             <div class="copywrite_text fadeInUp" data-wow-delay="0.2s">
                                 <div class="footer-logo">
-                                    <a href="#"><img src="img/core-img/logo.png" alt="logo"> Robostam </a>
+                                    <a href="#"><img loading="lazy" class="img-fluid" src="img/core-img/logo.png" alt="Alphatech - Logo">Alphatech</a>
                                 </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ducimus voluptatibus neque illo id repellat quisquam? Autem expedita earum quae laborum ipsum ad.</p>
                             </div>
@@ -27,12 +27,12 @@
                         <div class="contact_info_area d-sm-flex justify-content-between">
                             <!-- Content Info -->
                             <div class="contact_info mt-x text-center fadeInUp" data-wow-delay="0.3s">
-                                <h5>PRIVACY & TOS</h5>
-                                <a href=""><p>Advertiser Agreement</p></a>
-                                <a href=""><p>Acceptable Use Policy</p></a>
-                                <a href=""><p>Privacy Policy</p></a>
-                                <a href=""><p>Technology Privacy</p></a>
-                                <a href=""><p>Developer Agreement</p></a>
+                                <h5>Services</h5>
+                                <a href="/network_rollout_services"><p>Network Rollout Services</p></a>
+                                <a href="/network_managed_services"><p>Network Managed Services</p></a>
+                                <a href="/network_consultation_services"><p>Network Consultation Services</p></a>
+                                <a href="/fiber_engineering_services"><p>Fiber Engineering Services</p></a>
+                                <a href="/training_learning_services"><p>Training & Learning Services</p></a>
                             </div>
                         </div>
                     </div>
@@ -41,12 +41,11 @@
                         <!-- Content Info -->
                         <div class="contact_info_area d-sm-flex justify-content-between">
                             <div class="contact_info mt-s text-center fadeInUp" data-wow-delay="0.2s">
-                                <h5>NAVIGATE</h5>
-                                <a href=""><p>Advertisers</p></a>
-                                <a href=""><p>Developers</p></a>
-                                <a href=""><p>Resources</p></a>
-                                <a href=""><p>Company</p></a>
-                                <a href=""><p>Connect</p></a>
+                                <h5>Product</h5>
+                                <a href="/UTrex"><p>UTrex</p></a>
+                                <a href="/antenna"><p>Antenna</p></a>
+                                <a href="/set_top_box"><p>Set-top Box</p></a>
+                                <a href="/mobile_base_station"><p>Mobile Base Station</p></a>
                             </div>
                         </div>
                     </div>
@@ -75,16 +74,16 @@
     <!-- jQuery js -->
     <script src="js/jquery.min.js"></script>
     <!-- Popper js -->
-    <script src="js/popper.min.js"></script>
+    <script src="js/popper.min.js" defer></script>
     <!-- Bootstrap js -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js" defer></script>
     <!-- All Plugins js -->
-    <script src="js/plugins.js"></script>
-    <script src="js/animated.js"></script>
+    <script src="js/plugins.js" defer></script>
+    <script src="js/animated.js" defer></script>
     <!-- Parallax js -->
-    <script src="js/dzsparallaxer.js"></script>
+    <script src="js/dzsparallaxer.js" defer></script>
 
-    <script src="js/jquery.syotimer.min.js"></script>
+    <script src="js/jquery.syotimer.min.js" defer></script>
 
     <!-- script js -->
-    <script src="js/script.js"></script>
+    <script src="js/script.js" defer></script>
