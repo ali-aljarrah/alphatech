@@ -66,7 +66,7 @@
             <div class="row align-items-center">
                 <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left ">
                     <div class="welcome-meter">
-                        <img src="img/alphatec/about.jpg">
+                        <img src="img/alphatec/bb.jpg">
                     </div>
                 </div>
                 
@@ -169,7 +169,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left">
-                        <img class="img-responsive" src="img/alphatec/vacancy.jpg" alt="">
+                        <img class="img-responsive" src="img/alphatec/aa.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -191,7 +191,7 @@
         <div class="clearfix"></div>
          <div class="outer">
          <!--Logo-->
-            <div class="inner-circle"><a href="#"><img class="phone" src="img/core-img/app-design.png" alt="image"></a></div>
+            <div class="inner-circle"><a href="#"><img class="phone" src="img/alphatec/tower.png" alt="image"></a></div>
           
             <div class="row clearfix">
               <!--Left Column-->
@@ -279,7 +279,7 @@
 
     <section class="section-padding-0-0 relative clearfix margined">
         <div class="container">
-            <div class="has-shadow agency-sec mb-4">
+            <div class="has-shadow last mb-4">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 ">
                         <div class="services-block-four v2">
@@ -338,22 +338,22 @@
                                 <div class="icon-img-box">
                                     <img src="img/features/f3.svg" alt="">
                                 </div>
-                                <h3><a href="#">PRODUCTS</a></h3>
-                                <div class="text">
+                                <h3><a href="#">WLAN Solution</a></h3>
+                                <!-- <div class="text">
                                 From antenna, mobile base station, to set-top box, sees more for our products 
-                                </div>
-                                <!-- <div class="side-feature-list-item v2 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
-                                    <div class="foot-c-info">All PHP Apps Supported</div>
-                                </div>
-                                <div class="side-feature-list-item v2 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
-                                    <div class="foot-c-info">Innovative Control Panel</div>
-                                </div>
-                                <div class="side-feature-list-item v2 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
-                                    <div class="foot-c-info">Unlimited Applications</div>
                                 </div> -->
+                                <div class="side-feature-list-item v2  mb-3 ">
+                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                    <div class="foot-c-info">A small number of users in a single region, usually dozens;</div>
+                                </div>
+                                <div class="side-feature-list-item v2  mb-3 ">
+                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                    <div class="foot-c-info">Far away from infrastructure regions ；</div>
+                                </div>
+                                <div class="side-feature-list-item v2  mb-3 ">
+                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                    <div class="foot-c-info">The distance of countryside uses is 2~3 km；</div>
+                                </div>
                             </div>
                         </div>
                     </div>
