@@ -44,3 +44,11 @@ body::-webkit-scrollbar-thumb {
   color: #FFFFFF;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
+
+.fs-26 {
+  font-size: 26px !important;
+}
+
+.white-color {
+  color: #fff !important;
+}
