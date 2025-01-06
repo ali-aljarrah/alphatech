@@ -49,7 +49,7 @@
                                 </li>
                                 <li><a href="#Product">Product</a>
                                     <ul class="dropdown">
-                                        <li><a href="/UTrex">UTrex</a></li>
+                                        <li><a href="/product_utrex">UTrex</a></li>
                                         <li><a href="/antenna">Antenna</a></li>
                                         <li><a href="/set_top_box">Set-top Box</a></li>
                                         <li><a href="/mobile_base_station">Mobile Base Station</a></li>
