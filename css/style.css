@@ -3283,6 +3283,12 @@ p.artficial:before{
     }
 }
 
+.last {
+    background: #d7dfef;
+    padding: 50px 30px 17px;
+}
+
+
 /* Start .agency-sec*/
 .agency-sec{
    background: #fff;
