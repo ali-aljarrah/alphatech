@@ -27,7 +27,6 @@
                                 <li><a href="#About">About Us</a>
                                     <ul class="dropdown">
                                         <li><a href="/who_we_are">Who we are?</a></li>
-                                        <li><a href="/milestone">Milestone</a></li>
                                         <li><a href="/vision_mission">Vision & Mission</a></li>
                                         <li><a href="/management_team">Management Team</a></li>
                                         <li><a href="/milestones_achievements">Milestones & Achievements</a></li>
