@@ -29,10 +29,6 @@
                             <div class="cd-intro v2 text-left">
                                 <h1 class="cd-headline clip is-full-width thin" >
                                     <span class="w-text bold">UCE ensures every service will result in good quality deliverables</span>
-                                    <!-- <span class="cd-words-wrapper">
-                                        <b class="gradient-text cyan bolder is-hidden"><span class="o-text">.</span></b>
-                                        <b class="gradient-text cyan bolder is-visible">Scale to Success<span class="o-text ">.</span></b>
-                                    </span> -->
                                 </h1>
                             </div>
                             <p class="g-text fadeInUp" data-wow-delay="0.3s">
@@ -40,11 +36,7 @@
                                 provide on-job training and know-how knowledge transfer to your engineers.
                             </p>
                             <div class="dream-btn-group fadeInUp w-text" data-wow-delay="0.4s">
-                                <a href="#" class="btn more-btn pink mr-3">Read More</a>
-                                <!-- <div class="video-demo-prev">
-                                    <a href="#" class="btn more-btn video-btn v2  mr-3"><i class="fa fa-play"></i> </a>
-                                    <span>Watch Demo</span>
-                                </div> -->
+                                <a href="/contact_us" class="btn more-btn pink mr-3">Read More</a>
                             </div>
                             
                         </div>
@@ -139,33 +131,6 @@
                             <p class="fadeInUp" data-wow-delay="0.4s">
                                 The Management believes in working hard but keeping it fun. The founder believe in a win-win scenario for both staff and management as they believe in fair treatment and being rewarded for innovation because it recognizes that its people are its best assets, and as such, are well rewarded.                            
                             </p>
-                            <!-- <div class="services-block-four v2 mt-30">
-                                <div class="inner-box">
-                                    <div class="icon-font-box">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <h3><a href="#">Powerfull Mobile And Online App</a></h3>
-                                    <div class="text width-80">Lorem ipsum dolor sit amet, conse ctetur dolor adipisicing elit alias officia aperiam.</div>
-                                </div>
-                            </div>
-                            <div class="services-block-four v2">
-                                <div class="inner-box">
-                                    <div class="icon-font-box">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <h3><a href="#">Brings More Transparency And Speed</a></h3>
-                                    <div class="text width-80">Lorem ipsum dolor sit amet, conse ctetur dolor adipisicing elit alias officia aperiam.</div>
-                                </div>
-                            </div>
-                            <div class="services-block-four v2">
-                                <div class="inner-box">
-                                    <div class="icon-font-box">
-                                        <i class="fa fa-check"></i>
-                                    </div>
-                                    <h3><a href="#">Special For Multiple Use Capabilities</a></h3>
-                                    <div class="text width-80">Lorem ipsum dolor sit amet, conse ctetur dolor adipisicing elit alias officia aperiam.</div>
-                                </div>
-                            </div> -->
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left">
@@ -284,19 +249,16 @@
                                     <img src="img/features/f1.svg" alt="">
                                 </div>
                                 <h3><a href="#">Milestone</a></h3>
-                                <!-- <div class="text">
-                                    From Telecommunication installation, IT maintenances to infrastructure construction, our engineering references cover China, Indonesia, Malaysia, Thailand and Cambodia,  featured with prompt response, cost effectiveness, and bring you value finally
-                                </div> -->
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">May 2012, GCI professional team on board Malaysia。</div>
                                 </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">November，2013, GCI Malaysia incorporated in Kuala Lumpur。</div>
                                 </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">Feb 2014, Great Opening Ceremony in Kuala Lumpur</div>
                                 </div>
                             </div>
@@ -310,19 +272,16 @@
                                     <img src="img/features/f2.svg" alt="">
                                 </div>
                                 <h3><a href="#">Latest News</a></h3>
-                                <!-- <div class="text">
-                                     GCI Malaysia conduct Talk on Telecommunication Trends at MMU Cyberjaya, Faculty of Engineering
-                                </div> -->
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">Acceptance of Work Completion for U Mobile NOC</div>
                                 </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">Chief Accountant of CETC visit GCI (M)</div>
                                 </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">Contract Signing Ceremony held between U Mobile and GCI</div>
                                 </div>
                             </div>
@@ -335,19 +294,16 @@
                                     <img src="img/features/f3.svg" alt="">
                                 </div>
                                 <h3><a href="#">WLAN Solution</a></h3>
-                                <!-- <div class="text">
-                                From antenna, mobile base station, to set-top box, sees more for our products 
-                                </div> -->
-                                <div class="side-feature-list-item v2  mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2  mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">A small number of users in a single region, usually dozens;</div>
                                 </div>
-                                <div class="side-feature-list-item v2  mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2  mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">Far away from infrastructure regions ；</div>
                                 </div>
-                                <div class="side-feature-list-item v2  mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2  mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">The distance of countryside uses is 2~3 km；</div>
                                 </div>
                             </div>
@@ -358,10 +314,6 @@
             
         </div>
     </section>
-
-
-
-
 
     <?php include './include/footer.php'; ?>
 

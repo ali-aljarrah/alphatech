@@ -6,14 +6,14 @@
                     <div class="col-12 col-lg-4 col-md-6">
                         <div class="footer-copywrite-info">
                             <!-- Copywrite -->
-                            <div class="copywrite_text fadeInUp" data-wow-delay="0.2s">
+                            <div class="copywrite_text wow fadeInUp" data-wow-delay="0.2s">
                                 <div class="footer-logo">
-                                    <a href="#"><img loading="lazy" class="img-fluid" src="img/core-img/logo.png" alt="Alphatech - Logo">Alphatech</a>
+                                    <a href="#">Alphatech</a>
                                 </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit ducimus voluptatibus neque illo id repellat quisquam? Autem expedita earum quae laborum ipsum ad.</p>
                             </div>
                             <!-- Social Icon -->
-                            <div class="footer-social-info fadeInUp" data-wow-delay="0.4s">
+                            <div class="footer-social-info wow fadeInUp" data-wow-delay="0.4s">
                                 <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                 <a href="#"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
                                 <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
@@ -26,7 +26,7 @@
                     <div class="col-12 col-lg-3 col-md-6">
                         <div class="contact_info_area d-sm-flex justify-content-between">
                             <!-- Content Info -->
-                            <div class="contact_info mt-x text-center fadeInUp" data-wow-delay="0.3s">
+                            <div class="contact_info mt-x text-center wow fadeInUp" data-wow-delay="0.3s">
                                 <h5>Services</h5>
                                 <a href="/network_rollout_services"><p>Network Rollout Services</p></a>
                                 <a href="/network_managed_services"><p>Network Managed Services</p></a>
@@ -40,7 +40,7 @@
                     <div class="col-12 col-lg-2 col-md-6 ">
                         <!-- Content Info -->
                         <div class="contact_info_area d-sm-flex justify-content-between">
-                            <div class="contact_info mt-s text-center fadeInUp" data-wow-delay="0.2s">
+                            <div class="contact_info mt-s text-center wow fadeInUp" data-wow-delay="0.2s">
                                 <h5>Product</h5>
                                 <a href="/UTrex"><p>UTrex</p></a>
                                 <a href="/antenna"><p>Antenna</p></a>
@@ -54,12 +54,10 @@
                     <div class="col-12 col-lg-3 col-md-6 ">
                         <div class="contact_info_area d-sm-flex justify-content-between">
                             <!-- Content Info -->
-                            <div class="contact_info mt-s text-center fadeInUp" data-wow-delay="0.4s">
+                            <div class="contact_info mt-s text-center wow fadeInUp" data-wow-delay="0.4s">
                                 <h5>CONTACT US</h5>
-                                <p>Mailing Address:xx00 E. Union Ave</p>
-                                <p>Suite 1100. Denver, CO 80237</p>
-                                <p>+999 90932 627</p>
-                                <p>support@yourdomain.com</p>
+                                <p>AS ALPHATECH SDN. BHD.</p>
+                                <p>202401053127 (1598969-P)</p>
                             </div>
                         </div>
                     </div>

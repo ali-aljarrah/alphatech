@@ -5,7 +5,7 @@
                 <nav class="classy-navbar light justify-content-between" id="dreamNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand light" href="/"><img class="img-fluid" loading="lazy" src="img/core-img/logo.png" alt="Alphatech Logo" />Alphatech</a>
+                    <a class="nav-brand light" href="/">Alphatech</a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler demo">
@@ -68,7 +68,7 @@
                                 </li>
                              
                                 
-                                <li><a href="contact-us.html">Contact</a></li>
+                                <li><a href="/contact_us">Contact</a></li>
                             </ul>
                             
                         </div>
