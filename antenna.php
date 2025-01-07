@@ -73,7 +73,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left wow fadeInLeft" data-wow-delay="0.3s">
+                    <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left wow fadeInRight" data-wow-delay="0.3s">
                         <img class="img-responsive mt-5" src="img/alphatec/annn.jpg" alt="">
                     </div>
                 </div>

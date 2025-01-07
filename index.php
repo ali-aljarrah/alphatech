@@ -195,7 +195,7 @@
           
             <div class="row clearfix">
               <!--Left Column-->
-               <div class="left-column col-lg-4 col-md-6 col-sm-6 col-xs-12 fadeInUp w-text" data-wow-delay="0.4s">
+               <div class="left-column col-lg-4 col-md-6 col-sm-6 col-xs-12  wow fadeInLeft" data-wow-delay="0.3s">
                   
                   <!--Service Box-->
                   <div class="service-box-three">
@@ -229,11 +229,10 @@
                           </div>
                       </div>
                   </div>
-                  
               </div>
               
               <!--Right Column-->
-              <div class="right-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+              <div class="right-column col-lg-4 col-md-6 col-sm-6 col-xs-12  wow fadeInRight" data-wow-delay="0.3s">
                   
                   <!--Service Box-->
                   <div class="service-box-four">
@@ -267,19 +266,16 @@
                         </div>
                       </div>
                   </div>
-                  
                </div>
-              
             </div>
          </div>
-
       </div>
     </section>
 
 
     <section class="section-padding-0-0 relative clearfix margined">
         <div class="container">
-            <div class="has-shadow last mb-4">
+            <div class="has-shadow last mb-4  wow fadeInUp" data-wow-delay="0.3s">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12 ">
                         <div class="services-block-four v2">
