@@ -1,7 +1,7 @@
 <section class="my-5">
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.4s">
-                <h6 class="h2">Solutions</h6>
+                <h6 class="h2">More Solutions</h6>
             </div>
             <div class="d-flex align-items-center mt-5 flex-wrap justify-content-center wow fadeInUp" data-wow-delay="0.4s">
                 <div class="mr-4 mb-4">
