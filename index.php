@@ -65,13 +65,13 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left ">
-                    <div class="welcome-meter">
+                    <div class="welcome-meter wow fadeInRight" data-wow-delay="0.3s">
                         <img src="img/alphatec/bb.jpg">
                     </div>
                 </div>
                 
                 <div class="col-12 col-lg-6 offset-lg-0 mt-s">
-                    <div class="who-we-contant">
+                    <div class="who-we-contant wow fadeInLeft" data-wow-delay="0.3s"">
                         <div class="dream-dots text-left fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <span class="gradient-text blue">About Alphatech</span>
                         </div>
@@ -131,7 +131,7 @@
                 <div class="row align-items-center">
                     
                     <div class="col-12 col-lg-6 offset-lg-0">
-                        <div class="who-we-contant">
+                        <div class="who-we-contant wow fadeInRight" data-wow-delay="0.3s">
                             <div class="dream-dots text-left fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                                 <span class="gradient-text blue">Vacancy</span>
                             </div>
@@ -169,7 +169,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left">
-                        <img class="img-responsive" src="img/alphatec/aa.jpg" alt="">
+                        <img class="img-responsive  wow fadeInLeft" data-wow-delay="0.3s" src="img/alphatec/aa.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -195,7 +195,7 @@
           
             <div class="row clearfix">
               <!--Left Column-->
-               <div class="left-column col-lg-4 col-md-6 col-sm-6 col-xs-12">
+               <div class="left-column col-lg-4 col-md-6 col-sm-6 col-xs-12 fadeInUp w-text" data-wow-delay="0.4s">
                   
                   <!--Service Box-->
                   <div class="service-box-three">
