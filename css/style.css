@@ -3288,7 +3288,21 @@ p.artficial:before{
     padding: 50px 30px 17px;
 }
 
+.purpel-box {
+    padding: 50px 60px 20px 60px;
+    margin-bottom: 30px;
+    background: linear-gradient(to right, #d7dfef, #846ff4);
+    border-radius: 70px 0px 0px 0px;
+}
 
+.compare-box-right-blue {
+    background: rgba(1, 7, 53, 0.1);
+    border-bottom-right-radius: 80px;
+    -webkit-box-shadow: 0 0 80px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 80px rgba(0, 0, 0, 0.4);
+    background: linear-gradient(to right, #6c7b82, #389ba3) !important;
+    margin-bottom: 30px;
+}
 /* Start .agency-sec*/
 .agency-sec{
    background: #fff;

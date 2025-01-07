@@ -51,7 +51,7 @@
                                         <li><a href="/product_utrex">UTrex</a></li>
                                         <li><a href="/antenna">Antenna</a></li>
                                         <li><a href="/set_top_box">Set-top Box</a></li>
-                                        <li><a href="/mobile_base_station">Mobile Base Station</a></li>
+                                        <li><a href="/mobile-base-station">Mobile Base Station</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#Solutions">Solutions</a>
