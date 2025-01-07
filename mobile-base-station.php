@@ -44,26 +44,26 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-12 mb-4 mb-md-0">
-                        <div class="purpel-box h-100 wow fadeInLeft" data-wow-delay="0.4s">
+                        <div class="compare-box purpel-box h-100 wow fadeInLeft" data-wow-delay="0.4s">
                             <div class="compare-heading">
-                                <span class="title fs-26 text-center">Main functions and applications</span>
+                                <span class="title fs-22 text-center">functions & applications</span>
                             </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">
                                         Provides a replaceable low cost solution for the operators when it is hard to build a fixed base station in a short time limit.
                                     </div>
                                 </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">
-                                         Provides a temporary solution when it is impossible to install the fixed base station considering the climate, geography and other objective factors in a short time frame.
+                                         Provides a temporary solution when it is impossible to install the fixed base station considering the climate in a short time frame.
                                     </div>
                                 </div>
-                                <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                <div class="side-feature-list-item v2 mb-3 align-items-start">
+                                    <i class="fa fa-check check-mark-icon-font mr-2" aria-hidden="true"></i>
                                     <div class="foot-c-info">
-                                    Fast network construction and emergency communication assurance for bursting events, breakdown and disasters.
+                                    Fast network construction and emergency communication assurance for bursting events.
                                     </div>
                                 </div>
                         </div>
@@ -71,24 +71,24 @@
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <div class="compare-box compare-box-right-blue h-100 wow fadeInRight" data-wow-delay="0.4s">
                             <div class="compare-heading">
-                                <span class="title fs-26 text-center">Product Advantages</span>
+                                <span class="title fs-22 text-center">Product Advantages</span>
                             </div>
                             <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                    <i class="fa fa-check check-mark-icon-font me-2" aria-hidden="true"></i>
                                     <div class="foot-c-info white-color">
-                                        Reusable . Reusable & Long servicing lifespan.
+                                        Reusable & Long servicing lifespan.
                                     </div>
                                 </div>
                                 <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                    <i class="fa fa-check check-mark-icon-font me-2" aria-hidden="true"></i>
                                     <div class="foot-c-info white-color">
-                                         Integration.  Integrated transmission, relocation and usage of the whole system (including base station antenna)
+                                         Integrated transmission, relocation and usage of the whole system .
                                     </div>
                                 </div>
                                 <div class="side-feature-list-item v2 mb-3 ">
-                                    <i class="fa fa-check check-mark-icon-font" aria-hidden="true"></i>
+                                    <i class="fa fa-check check-mark-icon-font me-2" aria-hidden="true"></i>
                                     <div class="foot-c-info white-color">
-                                      Quick Installation. Quick installation with small scale engineering.
+                                      Quick installation with small scale engineering.
                                     </div>
                                 </div>
                         </div>
@@ -100,7 +100,7 @@
     </section>
 
    
-
+    <?php include './include/products.php'; ?>
     <?php include './include/footer.php'; ?>
 
 </body>

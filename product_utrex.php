@@ -84,7 +84,7 @@
     </div>
         
     </section>
-
+    <?php include './include/products.php'; ?>
     <?php include './include/footer.php'; ?>
 
 </body>

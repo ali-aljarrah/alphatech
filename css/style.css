@@ -3291,7 +3291,7 @@ p.artficial:before{
 .purpel-box {
     padding: 50px 60px 20px 60px;
     margin-bottom: 30px;
-    background: linear-gradient(to right, #d7dfef, #846ff4);
+    background: linear-gradient(to right, #d7dfef, #846ff4) !important;
     border-radius: 70px 0px 0px 0px;
 }
 
@@ -3303,6 +3303,13 @@ p.artficial:before{
     background: linear-gradient(to right, #6c7b82, #389ba3) !important;
     margin-bottom: 30px;
 }
+
+.set-box {
+    margin-bottom: 30px;
+    display: inline-block;
+    max-width: 310px;
+}
+
 /* Start .agency-sec*/
 .agency-sec{
    background: #fff;
