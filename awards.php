@@ -40,8 +40,8 @@
     <section class="about-us-area ico-about-bg section-padding-100-0 clearfix" id="about">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -52,8 +52,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -64,8 +64,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -76,8 +76,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -88,8 +88,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -100,8 +100,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -112,8 +112,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -124,8 +124,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -136,8 +136,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -148,8 +148,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -160,8 +160,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -172,8 +172,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -184,8 +184,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -196,8 +196,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -208,8 +208,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">
@@ -220,8 +220,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4 mx-auto">
-                    <div class="services-block-four v2 mt-30">
+                <div class="col-lg-4 mb-lg-4 mx-auto">
+                    <div class="services-block-four v2 mt-lg-30">
                         <div class="d-flex align-items-center">
                             <div class="mr-3">
                                 <div class="icon-font-box position-relative">

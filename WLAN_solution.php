@@ -100,27 +100,27 @@
                             <img loading="lazy" class="img-fluid" src="/img/alphatec/20.png" alt="Alphatech - WLAN Solution">
                         </div>
                         <div class="side-feature-list-item">
-                            <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                            <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                             <div class="foot-c-info">The network architecture of wireless broadband access system consists of access layer, convergence layer and core layer;</div>
                         </div>
                         <div class="side-feature-list-item">
-                            <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                            <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                             <div class="foot-c-info">Access layer includes CPE, AP and access layer base type power switch;</div>
                         </div>
                         <div class="side-feature-list-item">
-                            <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                            <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                             <div class="foot-c-info">Aggregation layer includes aggregation layer switches, BRAS, and wireless access controller;</div>
                         </div>
                         <div class="side-feature-list-item">
-                            <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                            <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                             <div class="foot-c-info">The core layer including core switches, core routers, various servers;</div>
                         </div>
                         <div class="side-feature-list-item">
-                            <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                            <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                             <div class="foot-c-info">According to specific circumstances, base station AP and AC choose Layer 3 or Layer 2  networking;</div>
                         </div>
                         <div class="side-feature-list-item">
-                            <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                            <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                             <div class="foot-c-info">based on the actual number of users, capacity, frequency use, etc., base station AP and CPE can be different.</div>
                         </div>
                     </div>

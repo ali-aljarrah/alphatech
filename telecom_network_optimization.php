@@ -39,7 +39,6 @@
     <!-- ##### About Us Area Start ##### -->
     <section class="about-us-area ico-about-bg section-padding-100-0 clearfix" id="about">
         <div class="container mb-5">
-            <div class="row align-items-center">
                 <div class="row align-items-center">
                     <div class="col-12 col-lg-6 offset-lg-0 mb-4 mb-md-0">
                         <div class="who-we-contant wow fadeInLeft" data-wow-delay="0.3s">
@@ -58,7 +57,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
     </section>
 
