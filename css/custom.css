@@ -43,3 +43,7 @@ body::-webkit-scrollbar-thumb {
 .white-color {
   color: #fff !important;
 }
+
+.dark.breakpoint-on .classy-navbar .classy-menu {
+  background-color: #192a56 !important;
+}
