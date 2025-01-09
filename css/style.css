@@ -511,7 +511,7 @@ ol {
     background: url(../img/core-img/sec-before2.png) no-repeat;
     background-size: cover;
 }
-.sec-before3:before{
+/* .sec-before3:before{
     content: '';
     position: absolute;
     top: 0;
@@ -523,7 +523,7 @@ ol {
     -webkit-animation: floating2 7s infinite;
     -o-animation: floating2 7s infinite ;
     animation: floating2 7s infinite ;
-}
+} */
 @media (max-width: 992px){
     .sec-before:before, 
     .sec-before2:before,
@@ -1094,7 +1094,7 @@ ol {
 }
 
 /* ##### 3.0 Wellcome Area CSS ##### */
-.hero-section{
+/* .hero-section{
     position: relative;
     min-height: 700px;
     background: url('../img/bg-img/header2.jpg') no-repeat bottom center;
@@ -1102,7 +1102,7 @@ ol {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .hero-section.app{
     position: relative;
     min-height: 700px;

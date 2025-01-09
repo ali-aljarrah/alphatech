@@ -44,6 +44,10 @@ body::-webkit-scrollbar-thumb {
   color: #fff !important;
 }
 
+.dark .classynav ul li .dropdown {
+  min-width: max-content;
+}
+
 .dark.breakpoint-on .classy-navbar .classy-menu {
   background-color: #192a56 !important;
 }
