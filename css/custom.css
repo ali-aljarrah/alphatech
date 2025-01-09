@@ -10,26 +10,9 @@ body::-webkit-scrollbar-thumb {
   background: #888;
 }
 
-.breakpoint-off .classynav ul li .dropdown {
-  width: auto;
-  min-width: max-content;
-}
-
-/* .dark.classy-nav-container {
-    min-width: 90vw;
-} */
-/* 
-
-.word-worp {
-  word-break: break-word;
-  white-space: pre-wrap;
-  height: auto;
-} */
-
-
-.breakpoint-on .classy-navbar .classy-menu  {
-    /* min-width: 90vw; */
-    left: -375px;
+.breakpoint-on .classynav ul li a {
+  font-size: 12px;
+  padding-left: 10px;
 }
 
 .badge-link {
