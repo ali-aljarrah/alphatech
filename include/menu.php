@@ -54,14 +54,14 @@
                                 </li>
                                 <li><a href="#Solutions">Solutions</a>
                                     <ul class="dropdown">
-                                        <li><a href="/telecom_newtorking_planning_design">Telecom Newtorking Planning & Design</a></li>
+                                        <li class="word-worp"><a href="/telecom_newtorking_planning_design">Telecom Newtorking Planning & Design</a></li>
                                         <li><a href="/telecom_network_optimization">Telecom Network Optimization</a></li>
                                         <li><a href="/WLAN_solution">WLAN Solution</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="#Engineering">Engineering</a>
                                     <ul class="dropdown">
-                                        <li><a href="/telecom_installation_commissioning">Telecom Installation & Commissioning</a></li>
+                                        <li class="word-worp"><a href="/telecom_installation_commissioning">Telecom Installation & Commissioning</a></li>
                                         <li><a href="/IDC_engineering">IDC Engineering</a></li>
                                         <li><a href="/IBC_engineering">IBC Engineering</a></li>
                                     </ul>

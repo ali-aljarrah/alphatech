@@ -238,7 +238,7 @@
     </section>
 
 
-    <section class="section-padding-0-0 relative clearfix margined">
+    <section class="section-padding-0-0 relative clearfix margined mt-sm-0">
         <div class="container">
             <div class="has-shadow last mb-4  wow fadeInUp" data-wow-delay="0.3s">
                 <div class="row">

@@ -15,12 +15,20 @@ body::-webkit-scrollbar-thumb {
   min-width: max-content;
 }
 
-.dark.classy-nav-container {
+/* .dark.classy-nav-container {
     min-width: 90vw;
-}
+} */
+/* 
+
+.word-worp {
+  word-break: break-word;
+  white-space: pre-wrap;
+  height: auto;
+} */
+
 
 .breakpoint-on .classy-navbar .classy-menu  {
-    min-width: 90vw;
+    /* min-width: 90vw; */
     left: -375px;
 }
 

@@ -65,27 +65,27 @@
                         </p>
                         <div class="mb-3">
                             <div class="side-feature-list-item">
-                                <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                                <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                                 <div class="foot-c-info">High-tech enterprises in Guangdong Province</div>
                             </div>
                             <div class="side-feature-list-item">
-                                <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                                <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                                 <div class="foot-c-info">Innovative enterprise in Guangdong Province</div>
                             </div>
                             <div class="side-feature-list-item">
-                                <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                                <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                                 <div class="foot-c-info">Software enterprise in Guangdong Province</div>
                             </div>
                             <div class="side-feature-list-item">
-                                <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                                <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                                 <div class="foot-c-info">Enterprise Technology Centers in Guangdong Province</div>
                             </div>
                             <div class="side-feature-list-item">
-                                <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                                <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                                 <div class="foot-c-info">One of 50 Manufactures (Nationwide) for Telecom Equipment</div>
                             </div>
                             <div class="side-feature-list-item">
-                                <i class="fa fa-check-square-o check-mark-icon-font" aria-hidden="true"></i>
+                                <i class="fa fa-check-square-o pr-2 pr-lg-0 check-mark-icon-font" aria-hidden="true"></i>
                                 <div class="foot-c-info">Award Winning of “ Excellent Enterprise ” in Guangdong Province, 2010.</div>
                             </div>
                         </div>
